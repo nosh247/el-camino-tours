@@ -1,0 +1,103 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "bookNow": "Reservar Ahora",
+    "learnMore": "Saber Más",
+    "contactUs": "Contáctanos"
+  },
+  "header": {
+    "title": "El Camino Tours"
+  },
+  "home": {
+    "about": {
+      "title": "Sobre Nuestros Tours",
+      "description": "Descubre nuestra cuidadosamente seleccionada colección de tours únicos que ofrecen experiencias inolvidables. Cada tour está diseñado para brindarte aventuras auténticas y recuerdos duraderos.",
+      "subDescription": "Nuestros guías expertos te llevarán a través de los destinos más hermosos y culturalmente significativos, asegurando una aventura auténtica y memorable adaptada a tus intereses."
+    },
+    "experience": {
+      "title": "La Experiencia",
+      "subtitle": "Qué Esperar",
+      "features": {
+        "guides": "Guías profesionales bilingües",
+        "accommodations": "Alojamientos cómodos",
+        "cuisine": "Cocina local auténtica",
+        "immersion": "Experiencias de inmersión cultural",
+        "support": "Vehículo de apoyo para equipaje"
+      }
+    },
+    "testimonials": {
+      "title": "Historias de Viajeros",
+      "testimonial1": {
+        "text": "Caminar el Camino con El Camino Tours fue la experiencia más increíble de mi vida. Los guías eran conocedores y los alojamientos perfectos.",
+        "author": "Sarah Johnson",
+        "tour": "Monkey Island, 2023"
+      },
+      "testimonial2": {
+        "text": "Las perspectivas culturales y el conocimiento histórico que compartió nuestro guía hicieron que cada paso fuera significativo. ¡Altamente recomendado esta empresa de tours!",
+        "author": "Michael Chen",
+        "tour": "Emberá Village, 2023"
+      }
+    },
+    "contact": {
+      "title": "Comienza Tu Viaje",
+      "description": "¿Listo para embarcarte en tu propia aventura? Contáctanos para comenzar a planificar tu viaje hoy.",
+      "email": "Email",
+      "phone": "Teléfono",
+      "office": "Oficina",
+      "officeAddress": "Santiago de Compostela, España",
+      "button": "Reservar Tu Tour"
+    }
+  },
+  "tours": {
+    "monkeyIsland": {
+      "title": "Monkey Island",
+      "description": "La ruta más popular e icónica con paisajes impresionantes y rica historia.",
+      "fullDescription": "La ruta más popular e icónica del Camino de Santiago. Este viaje de 780km desde Saint-Jean-Pied-de-Port hasta Santiago de Compostela te lleva a través de los impresionantes Pirineos, las colinas ondulantes de Navarra, las vastas llanuras de Castilla y León, y los exuberantes paisajes de Galicia.",
+      "price": "€1,200"
+    },
+    "emberaVillage": {
+      "title": "Emberá Village",
+      "description": "Una ruta costera con hermosas playas y pueblos encantadores.",
+      "fullDescription": "Experimenta la belleza costera de Portugal y España en esta ruta de 620km desde Lisboa hasta Santiago. Camina por encantadores pueblos portugueses, a lo largo de impresionantes playas del Atlántico, y a través de las ciudades históricas de Oporto y Vigo antes de llegar a tu destino final.",
+      "price": "€980"
+    },
+    "cityTour": {
+      "title": "City Tour",
+      "description": "La ruta del norte a lo largo de la impresionante costa cantábrica.",
+      "fullDescription": "Sigue la impresionante costa cantábrica en esta ruta de 825km desde Irún hasta Santiago. Este camino ofrece vistas espectaculares del océano, pueblos pesqueros encantadores y el rico patrimonio cultural de las regiones del País Vasco, Cantabria y Asturias.",
+      "price": "€1,350"
+    },
+    "flashCityTour": {
+      "title": "Flash-City Tour",
+      "description": "La ruta original que cubre montañas escarpadas con paisajes espectaculares.",
+      "fullDescription": "La ruta original del Camino desde Oviedo hasta Santiago, cubriendo 321km a través de las montañas escarpadas de Asturias y Galicia. Este camino desafiante pero gratificante ofrece paisajes montañosos espectaculares y una verdadera sensación de la experiencia de peregrinación medieval.",
+      "price": "€1,100"
+    }
+  },
+  "footer": {
+    "description": "Descubre las antiguas rutas de peregrinación de España con nuestros tours guiados por expertos. Experimenta la magia del Camino de Santiago.",
+    "sections": {
+      "tours": "Nuestros Tours",
+      "company": "Empresa",
+      "support": "Soporte",
+      "contact": "Información de Contacto"
+    },
+    "links": {
+      "about": "Sobre Nosotros",
+      "team": "Nuestro Equipo",
+      "testimonials": "Testimonios",
+      "blog": "Blog",
+      "faq": "Preguntas Frecuentes",
+      "contact": "Contacto",
+      "booking": "Reservar Ahora",
+      "terms": "Términos y Condiciones",
+      "privacy": "Política de Privacidad"
+    },
+    "contact": {
+      "email": "info@elcaminotours.com",
+      "phone": "+34 123 456 789",
+      "address": "Santiago de Compostela, España"
+    },
+    "copyright": "© 2024 El Camino Tours. Todos los derechos reservados."
+  }
+} 

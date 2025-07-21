@@ -1,0 +1,103 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us"
+  },
+  "header": {
+    "title": "El Camino Tours"
+  },
+  "home": {
+    "about": {
+      "title": "About Our Tours",
+      "description": "Discover our carefully curated selection of unique tours that offer unforgettable experiences. Each tour is designed to provide you with authentic adventures and lasting memories.",
+      "subDescription": "Our expert guides will lead you through the most beautiful and culturally significant destinations, ensuring an authentic and memorable adventure tailored to your interests."
+    },
+    "experience": {
+      "title": "The Experience",
+      "subtitle": "What to Expect",
+      "features": {
+        "guides": "Professional bilingual guides",
+        "accommodations": "Comfortable accommodations",
+        "cuisine": "Authentic local cuisine",
+        "immersion": "Cultural immersion experiences",
+        "support": "Support vehicle for luggage"
+      }
+    },
+    "testimonials": {
+      "title": "Traveler Stories",
+      "testimonial1": {
+        "text": "Walking the Camino with El Camino Tours was the most incredible experience of my life. The guides were knowledgeable and the accommodations were perfect.",
+        "author": "Sarah Johnson",
+        "tour": "Monkey Island, 2023"
+      },
+      "testimonial2": {
+        "text": "The cultural insights and historical knowledge our guide shared made every step meaningful. Highly recommend this tour company!",
+        "author": "Michael Chen",
+        "tour": "Emberá Village, 2023"
+      }
+    },
+    "contact": {
+      "title": "Start Your Journey",
+      "description": "Ready to embark on your own adventure? Contact us to start planning your journey today.",
+      "email": "Email",
+      "phone": "Phone",
+      "office": "Office",
+      "officeAddress": "Santiago de Compostela, Spain",
+      "button": "Book Your Tour"
+    }
+  },
+  "tours": {
+    "monkeyIsland": {
+      "title": "Monkey Island",
+      "description": "The most popular and iconic route featuring stunning landscapes and rich history.",
+      "fullDescription": "The most popular and iconic route of the Camino de Santiago. This 780km journey from Saint-Jean-Pied-de-Port to Santiago de Compostela takes you through the stunning Pyrenees, the rolling hills of Navarra, the vast plains of Castilla y León, and the lush landscapes of Galicia.",
+      "price": "€1,200"
+    },
+    "emberaVillage": {
+      "title": "Emberá Village",
+      "description": "A coastal route with beautiful beaches and charming villages.",
+      "fullDescription": "Experience the coastal beauty of Portugal and Spain on this 620km route from Lisbon to Santiago. Walk through charming Portuguese villages, along stunning Atlantic beaches, and through the historic cities of Porto and Vigo before reaching your final destination.",
+      "price": "€980"
+    },
+    "cityTour": {
+      "title": "City Tour",
+      "description": "The northern route along the stunning Cantabrian coast.",
+      "fullDescription": "Follow the stunning Cantabrian coast on this 825km route from Irún to Santiago. This path offers breathtaking ocean views, charming fishing villages, and the rich cultural heritage of the Basque Country, Cantabria, and Asturias regions.",
+      "price": "€1,350"
+    },
+    "flashCityTour": {
+      "title": "Flash-City Tour",
+      "description": "The original route covering rugged mountains with spectacular scenery.",
+      "fullDescription": "The original Camino route from Oviedo to Santiago, covering 321km through the rugged mountains of Asturias and Galicia. This challenging but rewarding path offers spectacular mountain scenery and a true sense of the medieval pilgrimage experience.",
+      "price": "€1,100"
+    }
+  },
+  "footer": {
+    "description": "Discover the ancient pilgrimage routes of Spain with our expert-guided tours. Experience the magic of the Camino de Santiago.",
+    "sections": {
+      "tours": "Our Tours",
+      "company": "Company",
+      "support": "Support",
+      "contact": "Contact Info"
+    },
+    "links": {
+      "about": "About Us",
+      "team": "Our Team",
+      "testimonials": "Testimonials",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "booking": "Book Now",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    },
+    "contact": {
+      "email": "info@elcaminotours.com",
+      "phone": "+34 123 456 789",
+      "address": "Santiago de Compostela, Spain"
+    },
+    "copyright": "© 2024 El Camino Tours. All rights reserved."
+  }
+} 
